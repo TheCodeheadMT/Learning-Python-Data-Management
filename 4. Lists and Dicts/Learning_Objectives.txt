@@ -1,0 +1,10 @@
+1. Introduce how to use Python3 to create and iterate over a list or dictionary examples with references using markdown format with a .md extension. 
+2. Show and explain the difference between a dict and a list.
+3. Show the basic operations for lists and dicts, including but not limited to adding elements to a list or dict, removeing items from a list or dict, and any others that exist.
+4. Introduce the most common errors when creating or iterating over a list. 
+5. Show how to use the index and value of a dict when iterating.
+6. Show how to print lists and dicts. 
+7. Show how to combine lists and dicts by concatentaiton or appending.
+8. Provide examples and a list of exercises to practice making a list or a dict with realworld examples.
+
+

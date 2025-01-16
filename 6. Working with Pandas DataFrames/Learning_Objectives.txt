@@ -1,0 +1,9 @@
+1. Introduce how to use Python3 package pandas to create a custom dataframe using lists and dicts as a markdown format with a .md extension. 
+2. Show the student how to import the pandas package.
+3. Show the student how to create a dataframe using examples from a list and a dict.
+4. Using the dataframe create from a list and dict, add and update fields in each dataframe.
+5. Save the both dataframes to disk as CSV files.
+6. Load the both dataframes from disk with or without the header or index information and print them to standard output.
+7. Provide an example of a method that creates a dataframe provided a list or a dict. 
+8. Suggest exercises to crete a data frame using a dict or list.
+

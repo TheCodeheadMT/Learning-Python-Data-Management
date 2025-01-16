@@ -1,0 +1,9 @@
+1. Introduce 4. Pandas vector operations using (apply/lamda functions) the Python3 package pandas as a markdown format with a .md extension. 
+2. Introduce vector operations and what they are with a simple example.
+3. Show all of the methods to use vector operations in Pandas.
+4. Show how to use the apply and lambda functions using an example of how each is used with an example dataframe and create a new column using a string operation and an a new column using a numeric operation.
+5. Provide an example of each of the build in methods to access rows or columns by index, value, value, or field name. 
+6. Provide an example python module file in .py format that opens loads the example data from a csv file, and then applies a lambda function to create a new column in the dataframe and then saves it to disk.
+7. Suggest example exercies to practice the concepts above.
+
+

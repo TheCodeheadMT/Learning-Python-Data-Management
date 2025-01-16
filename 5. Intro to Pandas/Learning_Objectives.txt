@@ -1,0 +1,5 @@
+1. Introduce how to use Python3 package pandas with examples with references using markdown format with a .md extension. 
+2. Show the student how to install and import the pandas package on windows and MacOS.
+2. Show the data types and basic operations in pandas with examples.
+3. Show how to print and preview data from dataframes, including top 10, bottom 10, and a specific range.
+4. Introduce the types of operations that can be performed on rows and columns with examples.

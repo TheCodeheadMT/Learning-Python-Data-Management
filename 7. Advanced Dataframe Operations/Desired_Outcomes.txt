@@ -1,0 +1,6 @@
+1. The student can import the pandas package into a python script.
+2. The student understands how to select values from rows or columns using conditional statements in pandas.
+3. The student can add to a new dataframe by selection certain rows or columns from an existing dataframe.
+4. The student understands how to use all of the built in functions to access rows or columsn by index, value, or field name.
+5. The student could create their a new dataframe from an existing dataframe using a more than one selection method. 
+

@@ -1,0 +1,4 @@
+1. The student can create a class in Python with variables.
+2. The student understands what the __main__ method is and how it works.
+3. The student can create a method within a Class and execute it in the __main__ method.
+4. the student knows how to execute the Class they created using the command line.

@@ -1,0 +1,3 @@
+1. The student can create a hello world application to print any string of their choice to standard output.
+2. The student understand how to run a python script from a command line on a windows or MacOS.
+3. The student can explain what Python is and how it compares to other programming languages in terms of its strenghts and weaknesses.

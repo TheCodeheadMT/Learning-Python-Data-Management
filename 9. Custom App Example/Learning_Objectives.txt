@@ -1,0 +1,10 @@
+1. Show step by step how to create a custom application that can be run on the command using the Python3 package pandas as a markdown format with a .md extension. 
+2. Show the following steps:
+2.1 Show how to create create a class called CleanIP that modifies IP addresses by reformatting them based on a custom function.
+2.2 CleanIP has a custom function to be used with the pandas apply method that reads in a series of string IP addresses and replaces the last period '.' with the string '[.]'. 
+2.3 The CleanIP application can be ran from the command line and takes in a single argument of the path to the csv file containing a list of IP addresses with the header named IP.
+2.4 If the header is not correct, tell the user that the CSV file is not formatted correctly. 
+3. After listing all the code in pieces, show a combined version at the bottom as python module.
+4. Suggest ways the application could be customized for differt needs.
+
+

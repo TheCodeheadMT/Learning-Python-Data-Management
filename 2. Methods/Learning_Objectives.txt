@@ -1,0 +1,4 @@
+1. Introduce how to use Python to create methods with parameters using examples with references using markdown format with a .md extension. 
+2. Example 1 should have no parameters.
+3. Exampel 2 should have 2 parameters, one that specfies the type and one that does not. With an explanation of each.
+3. Example 3 should have 1 parameter that shows the type and returns a dict.

@@ -1,0 +1,8 @@
+1. Introduce advanced methods to select values in columns or rows from dataframes using the Python3 package pandas as a markdown format with a .md extension. 
+2. Show the student the methods to select values from rows or columns using conditions.
+3. Show the student how to create a new dataframe by selecting certain rows or columns from an existing dataframe.
+5. Show the student how to select rows or columns using multiple conditions conditions.f
+6. Show the student how to use all of the build in functions to access rows or columns by index, value, or field name. 
+7. Provide an example of each of the build in methods to access rows or columns by index, value, value, or field name. 
+
+

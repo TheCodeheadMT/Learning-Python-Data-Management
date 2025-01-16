@@ -1,0 +1,3 @@
+1. Introduce Python as a scripting language including its strenghts and weaknesses in a brief summary with references using markdown format with a .md extension. 
+2. Introduce how to create a Python script to create a basic HelloWorld script and provide python files with examples.
+3. Introduce how to run a python script from the command line on a Windows or Mac computer and provide exampels how to do this with references in markdown format with a .md extension. 

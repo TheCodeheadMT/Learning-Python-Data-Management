@@ -1,0 +1,3 @@
+1. The student understands how to create a custom application using pandas.
+2. The student can create their own custom application using the pandas apply function using vector opeartions. 
+

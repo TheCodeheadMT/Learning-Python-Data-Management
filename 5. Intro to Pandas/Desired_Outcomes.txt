@@ -1,0 +1,5 @@
+1. The student can explain what the pandas package is and how it is applied using Python.
+2. The student understand how to install and import the panda package on Windows and MacOS.
+3. The student understands the data types and basic operations in pandas.
+4. The student could use pandas and perform basic operations to preview data within a pandas dataframe. 
+5. The student understands the types of operations the pandas package provides to working with datasets.

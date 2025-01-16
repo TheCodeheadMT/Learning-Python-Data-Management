@@ -1,0 +1,5 @@
+1. The student can create a list and dict in python and understands the difference.
+2. The student is informed about the most common mistakes when working with lists and dicts.
+3. The student can create a list of a specified size initialized to 0.
+4. The student could use lists or dicts in creating their own python scripts in the future.
+5. The student should be able to perform basic operations with lists and dicts in python.

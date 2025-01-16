@@ -1,0 +1,6 @@
+1. Introduce how to use Python to create a Class. methods with parameters using examples with references using markdown format with a .md extension. 
+2. Introduce defining class variables versus global variables (e.g., the concept of scope)
+3. Introduce how the __main__ method is used and explain how it works.
+4. Introduce how to a method within a class if called from the __main__ function and how the variables inside the class are referenced using the 'self' keyword.
+5. Present an overall example with the Class and methods as a single python file that can be executed from command line.
+

@@ -1,0 +1,5 @@
+1. The student can import the pandas package into a python script.
+2. The student understands what vector operations are in pandas.
+3. The student can create their own lambda and apply functions using custom methods.
+4. The student can open a file, perform a vector operation, and save the results to disk.
+5. The student could explain what a vector operation is to another person in general terms.

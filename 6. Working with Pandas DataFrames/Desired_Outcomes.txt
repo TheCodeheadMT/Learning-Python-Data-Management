@@ -1,0 +1,7 @@
+1. The student can import the pandas package into a python script.
+2. The student can create a dataframe using a list or a dict.
+3. The student can add and update fields within dataframes created with a dict or a list.
+4. The student can save a dataframe to disk.
+5. The student can load a dataframe from a CSV file.  
+6. The student can use dataframes in their own applications. 
+
