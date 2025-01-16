@@ -1,4 +1,4 @@
-# Pandas Part 1 - Introduciton and Basic Operations
+# Lesson 4: Introduciton and Basic Operations with Pandas
 
 ## What is pandas?
 
